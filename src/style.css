@@ -158,10 +158,9 @@ button:focus {
  
 }
 
-@media (min-width: 768px) {
-  .logo {
-    height: 3.9em !important;
-  }
+.logo {
+  height: 1.4em !important;
+  width: 2.5em !important;
 }
 
 
