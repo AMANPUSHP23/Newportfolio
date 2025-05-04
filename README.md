@@ -13,42 +13,56 @@
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AMANPUSHP23&theme=radical&no-frame=true&title=Stars,Followers,Commits,Repositories" />
+</p>
+
 ---
 
 ## ✨ Preview
+
 <div align="center">
   <img src="./Images/portfolioInterface1.png" alt="Portfolio" width="600"/>
- 
 </div>
+
 ![Portfolio Preview](./preview.gif)
 
 > 🎥 *Live animations, smooth transitions, and a space-age UI built with love.*
 
 ---
 
+## 🌟 What's New
+
+- 🪄 **Particle.js background effects**
+- 🎨 **Animated gradient headers**
+- 🌌 **Scroll-based reveal animations**
+- 📂 **Blog and project sections dynamically rendered**
+
+---
+
 ## 🚀 Features
 
-- ⚡ Smooth page transitions with Framer Motion
-- 💡 Light/Dark theme toggle
-- 📱 Fully responsive design for mobile/tablet/desktop
-- 🌐 Modern UI with Glassmorphism/Neumorphism aesthetics
-- 🧠 Well-structured components and modular CSS
+- ⚡ Smooth page transitions with **Framer Motion**
+- 🌗 Light/Dark theme toggle
+- 📱 Fully responsive across all devices
+- 🌐 Glassmorphism/Neumorphism modern aesthetics
+- 🔧 Modular components for scalability
 
 ---
 
 ## 🛠 Tech Stack
 
-| Tech           | Description                    |
-|----------------|--------------------------------|
-| **React.js**   | UI Framework                   |
-| **Framer Motion** | Animations & Transitions    |
-| **Tailwind CSS**  | Utility-first styling        |
-| **React Icons**   | Iconography                  |
-| **Netlify/Vercel** | Hosting & Deployment       |
+| Tech               | Description                    |
+|--------------------|--------------------------------|
+| **React.js**       | UI Framework                   |
+| **Framer Motion**  | Animations & Transitions       |
+| **Tailwind CSS**   | Utility-first CSS styling      |
+| **React Icons**    | Icon pack                      |
+| **Vercel/Netlify** | Deployment platforms           |
 
 ---
 
-## 🚧 Project Setup
+## 🧩 Project Setup
 
 ```bash
 # Clone the project
@@ -62,6 +76,7 @@ npm install
 
 # Start development server
 npm run dev
+
 
 
 🌍 Live Demo
@@ -79,11 +94,7 @@ Replace with your deployed site URL
 Aman Pushp
 
 
-## 🌐 Let's Connect
 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-pushp-b1a501223/)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AMANPUSHP23)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aman_pushp23/?hl=en)
 📄 License
 This project is licensed under the MIT License — see the LICENSE file for details.
 
@@ -91,4 +102,15 @@ This project is licensed under the MIT License — see the LICENSE file for deta
 If you like this project, please ⭐ the repo and share it with friends!
 Let’s connect the tech world with a futuristic touch ✨
 
+
+⭐ Show Your Support
+If you like this project:
+
+Star 🌟 the repo
+
+Share 🗣️ it with your network
+
+Connect 🤝 for collaborations!
+
+Let’s connect the tech world with a futuristic touch ✨
 
