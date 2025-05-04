@@ -7,7 +7,7 @@ import { Document, Page, pdfjs } from "react-pdf";
 import "react-pdf/dist/esm/Page/AnnotationLayer.css";
 
 // ✅ Move this import to the top, before any logic
-import pdf from "../../Assets/Aman_Pushp_Resume.pdf";
+import pdf from "../../Assets/Aman_pushp_cv.pdf";
 
 // ✅ Now it's safe to set the worker options
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
