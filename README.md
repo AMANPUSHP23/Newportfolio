@@ -25,7 +25,26 @@
   <img src="./Images/portfolioInterface1.png" alt="Portfolio" width="600"/>
 </div>
 
-![Portfolio Preview](./preview.gif)
+
+
+## 🚀 My Futuristic Portfolio
+
+> "Designing solutions for tomorrow, today."
+
+[![Visit Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-Click%20Here-1f1f1f?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=2b2b2b)](https://amanpushp.netlify.app/)
+
+✨ Explore my personal website to see:
+- 💡 Featured Projects
+- 🛠️ Tech Stack & Skills
+- 📄 Resume
+- 📬 Contact Info
+
+🔗 **Live Now:** [https://amanpushp.netlify.app](https://amanpushp.netlify.app)
+
+![Divider](https://img.shields.io/badge/-_-1f1f1f?style=flat-square&labelColor=2b2b2b&color=2b2b2b)
+
+> Made with passion, built for impact.
+
 
 > 🎥 *Live animations, smooth transitions, and a space-age UI built with love.*
 
@@ -85,11 +104,6 @@ npm install
 # Start development server
 npm run dev
 
-
-
-🌍 Live Demo
-🔗 Click here to see it live
-Replace with your deployed site URL
 
 📦 Deployment Options
  Netlify
