@@ -17,7 +17,7 @@
 
 ## ✨ Preview
 <div align="center">
- <img src="Portfolio-master\Images\portfolioInterface.png" alt="Portfolio" width="600"/>
+ <img src="./Images/portfolioInterface.png" alt="Portfolio" width="600"/>
 
 </div>
 ![Portfolio Preview](./preview.gif)
@@ -78,11 +78,13 @@ Replace with your deployed site URL
 👨‍🚀 Author
 Aman Pushp
 
-## 🚀 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-pushp-b1a501223)
-[![GitHub](https://img.shields.io/badge/🐙%20GitHub-171515?style=for-the-badge&logo=github)](https://github.com/AMANPUSHP23)
-[![Instagram](https://img.shields.io/badge/📸%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aman_pushp23/?hl=en)
+## 🌐 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-pushp-b1a501223)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AMANPUSHP23)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aman_pushp23/?hl=en)
+
 
 📄 License
 This project is licensed under the MIT License — see the LICENSE file for details.
