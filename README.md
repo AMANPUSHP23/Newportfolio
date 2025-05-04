@@ -50,6 +50,14 @@
 
 ---
 
+## 🧠 Skills & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,git,github,vercel,netlify" />
+</p>
+
+
+
 ## 🛠 Tech Stack
 
 | Tech               | Description                    |
