@@ -85,7 +85,6 @@ Aman Pushp
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AMANPUSHP23)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aman_pushp23/?hl=en)
 
-
 📄 License
 This project is licensed under the MIT License — see the LICENSE file for details.
 
