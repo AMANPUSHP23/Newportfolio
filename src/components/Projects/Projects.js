@@ -52,8 +52,8 @@ function Projects() {
               isBlog={false}
               title="Portfolio"
               description="A responsive and interactive personal portfolio website built with React.js, Tailwind CSS, and JavaScript. Features smooth navigation, animated sections, and GitHub/LinkedIn integration for professional branding."
-              ghLink="https://github.com/soumyajit4419/Editor.io"
-              demoLink="https://editor.soumya-jit.tech/"
+              ghLink="https://github.com/AMANPUSHP23/Newportfolio.git"
+              demoLink="https://amanpushp.netlify.app/"
             />
           </Col>
 

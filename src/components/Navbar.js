@@ -93,15 +93,19 @@ function NavBar() {
               </Nav.Link>
             </Nav.Item>
 
-            {/* <Nav.Item>
+            <Nav.Item>
               <Nav.Link
-                href="https://amanpushp.vercel.app/"
+                href="https://amanpushp.netlify.app/"
                 target="_blank"
                 rel="noreferrer"
-              >
-                <ImBlog style={{ marginBottom: "2px" }} /> Blogs
+              >portfolio
+                <AiOutlineFundProjectionScreen
+                  style={{ marginBottom: "2px" }}
+                />{" "}
+                Demo
+                
               </Nav.Link>
-            </Nav.Item> */}
+            </Nav.Item>
 
             <Nav.Item className="fork-btn">
               <Button
